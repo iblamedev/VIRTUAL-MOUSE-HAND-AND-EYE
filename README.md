@@ -1,6 +1,6 @@
 # ZeroTouch - A virtual mouse with both hand & eye tracking.
 
-A Python application that allows you to control your computer mouse using hand gestures or eye movements through computer vision and machine learning.
+A Python code that allows you to control your computer mouse using hand gestures or eye movements through computer vision and machine learning.
 
 ## Features
 
