@@ -16,25 +16,10 @@ A Python application that allows you to control your computer mouse using hand g
 - Webcam/Camera
 - Operating System: Windows, macOS, or Linux
 
-## Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/virtual-mouse.git
-cd virtual-mouse
-```
-
-2. Install required dependencies:
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
-1. Run the application:
-```bash
-python virtual_mouse.py
-```
+1. Run the code.
 
 2. Position yourself in front of the camera with good lighting
 
