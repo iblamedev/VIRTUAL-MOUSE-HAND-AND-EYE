@@ -19,7 +19,7 @@ A Python code that allows you to control your computer mouse using hand gestures
 
 ## Usage
 
-1. Run the code.
+1. Run the code file [ZeroTouch] in any python editor.
 
 2. Position yourself in front of the camera with good lighting
 
